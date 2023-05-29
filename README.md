@@ -1,1 +1,1 @@
-# resume_django
+# resume
